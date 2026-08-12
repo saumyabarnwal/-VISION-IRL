@@ -79,7 +79,7 @@ Combines pose, gesture, and object tracking to detect suspicious behavior or obs
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/saumyabarnwal/-VISION-IRL-.git
+git clone https://github.com/saumyabarnwal/-VISION-IRL.git
 cd -VISION-IRL
 cd backend
 ```
