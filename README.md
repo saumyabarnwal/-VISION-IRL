@@ -80,7 +80,8 @@ Combines pose, gesture, and object tracking to detect suspicious behavior or obs
 
 ```bash
 git clone https://github.com/saumyabarnwal/-VISION-IRL-.git
-cd VISION-IRL-Copy
+cd -VISION-IRL
+cd backend
 ```
 
 ### 2. Create and Activate Virtual Environment
